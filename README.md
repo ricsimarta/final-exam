@@ -119,7 +119,7 @@ It's optional to use javascript for this project.
 
 Elements:
  #### Header
-  - size: 100% * 40px
+  - size: `100% * 40px`
   - font size: `12px`, letter spacing is `0.2em`, font weight: `regular`
   - text is `New York Times Bestsellers`
 
