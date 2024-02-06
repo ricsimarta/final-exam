@@ -97,7 +97,7 @@ VotingPeople.getNumberOfVoters([person1, person2, person3, person4])
 should return `2`
 
 # UI build
-Create a **public** repository, with the name `final-examl-uibuild`.  
+Create a **public** repository, with the name `final-exam-uibuild`.  
 **Work in the created repository!**
 
 Make a UI build from the 4 attached pictures:
