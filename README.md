@@ -149,7 +149,8 @@ Create a title in the `<App />` component: `Rick and Morty`
 Fetch the url: `https://rickandmortyapi.com/api/character` and save the data in a state.
 
 While we have no data, show a loading animation.  
-The loading animation should have its own component: `<LoadingMask />` - a div with the text `"loading..."`
+The loading animation should have its own component: `<LoadingMask />` - a div with the text `"loading..."`  
+*(The API is very fast, it could be hard to see the loading component. It's OK if you test with setTimeout(), but you don't have to.)*
 
 The data from the fetch should look like:
 
